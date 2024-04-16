@@ -4,6 +4,6 @@ function setup() {
   
   function draw() {
    
-    ellipse (30,30, 30, 30) 
+   ellipse (30,30, 30, 30)
  
   }

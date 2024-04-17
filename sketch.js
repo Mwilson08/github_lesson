@@ -1,3 +1,6 @@
+let size = 70; let offset = 5; let cols; let rows;
+let pacmans = [];
+
 function setup() {
   createCanvas(400, 400);
 }
